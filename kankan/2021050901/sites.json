@@ -1,0 +1,24 @@
+[
+	{
+		"name": "麻花资源",
+		"server": "http://buycar5.cn/",
+		"title": "<span class=\"xing_vb4\">.*?target=\"_blank\">(.*?)</a>",
+		"link": "<span class=\"xing_vb4\"><a href=\"(.*?)\"",
+		"desp": "<div class=\"vodplayinfo\">(.*?)</div>",
+		"xml": "https://www.mhapi123.com/inc/ldg_api.php",
+		"item": "",
+		"m3u8": "name=\"copy_sel.*>(.*\\$http.*?m3u8)",
+		"cover": "<img class=\"lazy\" src=\"(.*?)\" alt"
+	},
+	{
+		"name": "快播云资源",
+		"server": "http://buycar5.cn/",
+		"title": "<span class=\"xing_vb4\">.*?target=\"_blank\">(.*?)</a>",
+		"link": "<span class=\"xing_vb4\"><a href=\"(.*?)\"",
+		"desp": "<div class=\"vodplayinfo\">(.*?)</div>",
+		"xml": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+		"item": "",
+		"m3u8": "name=\"copy_sel.*>(.*\\$http.*?m3u8)",
+		"cover": "<img class=\"lazy\" src=\"(.*?)\" alt"
+	}
+]

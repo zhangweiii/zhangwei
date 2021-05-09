@@ -1,0 +1,68 @@
+[
+	{
+		"title": "你的婚礼",
+		"desp": "她喜欢他，他爱她，他们最终没能在一起。都说，爱错了是青春，爱对了是爱情。而最后都不及一句，谢谢你，让我认识你，成全了我自己。",
+		"cover": "https://img3.doubanio.com/view/photo/l/public/p2528205132.webp",
+		"playlist": [
+			{
+				"name": "HD高清",
+				"m3u8": "http://sohu.com-v-sohu.com/20180927/13039_830bbefc/index.m3u8"
+			}
+		]
+	},
+	{
+		"title": "升级",
+		"desp": "赛博朋克复古风格、人体生化改造的概念、眩晕急促的动作戏运镜（非常想知道这些镜头是如何实现的）和血腥不留情的复仇故事结合得很酷炫，在有限的成本与格局下也保持住了较高的完成度。支持一下雷导，脱离了温子仁以后总算有一部属于自己的代表作了，不过找Jamie的那场戏出现了《电锯惊魂》的彩蛋不知道大家发现没有...",
+		"cover": "https://img9.doubanio.com/view/photo/l/public/p2531034314.webp",
+		"playlist": [
+			{
+				"name": "HD高清",
+				"m3u8": "http://sina.com-h-sina.com/20180816/10398_6a054900/index.m3u8"
+			}
+		]
+	},
+	{
+		"title": "星际穿越",
+		"desp": "时间可以伸缩和折叠，唯独不能倒退。你的鹤发或许是我的童颜，而我一次呼吸能抵过你此生的岁月",
+		"cover": "https://img1.doubanio.com/view/photo/l/public/p2207216219.webp",
+		"playlist": [
+			{
+				"name": "HD高清",
+				"m3u8": "http://youku.com-youku.com/20180101/0ZIlTs7o/index.m3u8"
+			}
+		]
+	},
+	{
+		"title": "兰戈",
+		"desp": "水準極高的動畫片 用動畫模式向象徵美國的西部牛仔魂致敬，更是一絕。 一條公路，劃出夢想與現實的兩面，追逐夢想，需要的是信仰、信念，最重要的是要相信自己！",
+		"cover": "https://img3.doubanio.com/view/photo/l/public/p1000880652.webp",
+		"playlist": [
+			{
+				"name": "HD高清",
+				"m3u8": "http://vip.okokbo.com/20171228/R7rd0pHN/index.m3u8"
+			}
+		]
+	},
+	{
+		"title": "釜山行",
+		"desp": "一切灾难皆人性，唉，最后那一枪要是开了，就是神作了。",
+		"cover": "https://img1.doubanio.com/view/photo/l/public/p2360940399.webp",
+		"playlist": [
+			{
+				"name": "HD高清",
+				"m3u8": "http://tudou.com-l-tudou.com/20180417/8646_050146f2/index.m3u8"
+			}
+		]
+	},
+	{
+		"title": "实习生",
+		"desp": "年近七十的本（罗伯特·德尼罗 Robert De Niro 饰）曾经是一位精明强干，事业有成的商人，最终，他还是和大部分老年人一样开始了平淡的退休生活。本对忙碌而又充实的过去无比怀念，孤独与内心里蠢蠢欲动的渴望让他做出了重回职场的决定，成为了年轻的朱尔斯（安妮·海瑟薇 Anne Hathaway 饰）手下的一名小小员工。 　　朱利安年纪虽轻却是一家著名时尚购物网站的创办人，为了事业，她牺牲了自己全部的业余时间和感情生活，这份事业带给了朱利安荣耀，却也成为了她肩上沉重的负担，更糟的是，公司董事会已经开始怀疑，朱利安是否能够胜任她目前的职位了。起初，朱利安并没有将年迈又落伍的本放在眼里，然而，随着时间的推移，这位慈祥的长者渐渐成为了她生活中最真挚的友人。",
+		"cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2260497287.webp",
+		"playlist": [
+			{
+				"name": "HD高清",
+				"m3u8": "https://f002.backblazeb2.com/file/ssplus/467ff28e-4d26-4101-92df-4f5e65494e5e/out.m3u8"
+			}
+		]
+	}
+]
